@@ -27,8 +27,8 @@ st.markdown('<div class="subtitulo">Análisis predictivo y financiero cruzado po
 # 2. LECTURA AUTOMÁTICA DE ARCHIVOS
 # ==========================================
 # El sistema leerá estos archivos directamente de tu GitHub
-file_lead = "LEAD TIME DE PLANTA 2023-2026_2.xlsx"
-file_paradas = "PARADAS DE MAQUINA 2024-2026_2.xlsx"
+file_lead = "LEAD TIME DE PLANTA 2023-2026.xlsx"
+file_paradas = "PARADAS DE MAQUINA 2024-2026.xlsx"
 file_costos = "Costeo Reprocesos FL.xlsx"
 
 try:
